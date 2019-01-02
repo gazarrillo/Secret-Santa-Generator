@@ -1,0 +1,7 @@
+Merry Christmas,
+
+Your gift is for: ${PERSON_NAME}
+
+Best Regards,
+
+- The Organizer

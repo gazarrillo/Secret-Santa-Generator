@@ -1,0 +1,11 @@
+You need to format this file in this way:
+
+[Name] [Last Name] [Email]
+
+Example:
+
+Johny Appleseed johnyapplesee@outlook.com
+
+You'll need to delete this in order to use the program properly
+
+Isabella Zarrillo I.zarrillo3008@gmail.com
