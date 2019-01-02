@@ -2,10 +2,14 @@ You need to format this file in this way:
 
 [Name] [Last Name] [Email]
 
+
 Example:
 
-Johny Appleseed johnyapplesee@outlook.com
+Johny Appleseed johnyappleseed@outlook.com
 
-You'll need to delete this in order to use the program properly
 
-Isabella Zarrillo I.zarrillo3008@gmail.com
+Side Note:
+
+You'll need a gmail account for this to work. If you have two factor authentication, you'll need to use an app password.
+
+You'll need to delete this text in order to use the program properly.
